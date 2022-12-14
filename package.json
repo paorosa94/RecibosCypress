@@ -1,0 +1,19 @@
+{
+  "name": "recibos",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas del sistema de Recibos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "recibos"
+  ],
+  "author": "PaolaRosa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  }
+}
