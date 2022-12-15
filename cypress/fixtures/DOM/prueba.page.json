@@ -1,0 +1,7 @@
+{
+    "input":{
+
+        "username": "#user-name",
+        "password":"#password"
+    }
+}
